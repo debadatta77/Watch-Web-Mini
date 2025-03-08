@@ -398,9 +398,9 @@ img {
         padding-block: 11rem 4rem;
     }    
     
-    .home__data{
+/*     .home__data{
         row-gap: 9.5rem;
-    }
+    } */
 
     .home__stars{
         column-gap: .75rem;
